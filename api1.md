@@ -1,4 +1,4 @@
-## Modules
+## Module
 
 <dl>
 <dt><a href="#module_api">api</a></dt>
